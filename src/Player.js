@@ -3,7 +3,7 @@ import TrackInformation from './TrackInformation';
 import Scrubber from './Scrubber';
 import Controls from './Controls';
 import Timestamps from './Timestamps';
-
+ 
 var Player = React.createClass({
     getInitialState: function() {
         return {
